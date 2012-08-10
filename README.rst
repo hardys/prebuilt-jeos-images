@@ -16,4 +16,4 @@ required by Oz.
 
 Download images here:
 
-https://github.com/heat-api/prebuilt-heat-jeos/downloads
+https://github.com/heat-api/prebuilt-jeos-images/downloads
