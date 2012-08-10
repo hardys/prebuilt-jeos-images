@@ -14,8 +14,6 @@ Also, for those people that develop inside a virtual machine, these
 prebuilt images may be easier then building images on bare metal, as currently
 required by Oz.
 
-``https://github.com/heat-api/prebuilt-heat-jeos/downloads/F16-x86_64-cfntools-jeos.qcow2``
+Download images here:
 
-``https://github.com/heat-api/prebuilt-heat-jeos/downloads/F16-i386-cfntools-jeos.qcow2``
-
-``https://github.com/heat-api/prebuilt-heat-jeos/downloads/U10-amd64-cfntools-jeos.qcow2``
+https://github.com/heat-api/prebuilt-heat-jeos/downloads
